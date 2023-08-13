@@ -1,6 +1,6 @@
 # Random Number Generator with GUI
 
-![Version](https://img.shields.io/badge/version-0.2.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0.beta.1-blue)
 
 A simple Python program using the Tkinter library to generate random numbers based on provided inputs and weights. It offers a user-friendly graphical interface to specify input numbers, weights, and the number of samples to generate.
 
