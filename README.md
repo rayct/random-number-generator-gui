@@ -1,4 +1,4 @@
-# Random Number Generator
+# Random Number Generator with GUI
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 
