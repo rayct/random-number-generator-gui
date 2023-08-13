@@ -1,12 +1,24 @@
-#  Version 1.0.3a CMD Line Version with Prompt
-# * Run the program using the following command:
-# `python random_number_generator_cmd_prompt.py`
+#  Version 1.0.3 CMD Line Version with Prompt
+
+# Run the program using the following command at the prompt:
+# `python rand_cmd.py`
 
 
 # import argparse
 # import random
 
 # def generate_numbers(numbers, weights, num_samples):
+#     """
+#     Generate random numbers based on provided weights.
+
+#     Args:
+#         numbers (str): Comma-separated list of numbers.
+#         weights (str): Comma-separated list of corresponding weights.
+#         num_samples (int): Number of random samples to generate.
+
+#     Returns:
+#         list: List of randomly generated numbers.
+#     """
 #     try:
 #         numbers = [int(num) for num in numbers.split(",")]
 #         weights = [int(weight) for weight in weights.split(",")]
@@ -18,6 +30,9 @@
 #         return []
 
 # def main():
+#     """
+#     Main function to generate and display random numbers based on user input.
+#     """
 #     numbers = input("Enter comma-separated list of numbers: ")
 #     weights = input("Enter comma-separated list of weights: ")
 #     num_samples = int(input("Enter the number of samples to generate: "))
@@ -29,3 +44,4 @@
 
 # if __name__ == "__main__":
 #     main()
+
