@@ -2,7 +2,7 @@
 
 ## Code Stack: Python and `tkinter`
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Version](https://img.shields.io/badge/version-0.2.0-blue)
 #### UI Version
 
 **Features Update and Fixed a number of Critical Bugs.**
@@ -22,7 +22,7 @@
 
 ---
 
-![Version](https://img.shields.io/badge/version-0.0.2-blue)
+![Version](https://img.shields.io/badge/version-0.1.2-blue)
 #### UI Version
 **Version Changes:**
 * Improved GUI (Expanded layout)
@@ -30,7 +30,7 @@
 
 ---
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
 #### UI Version
 **Major Feature Update:**
 * Added a UI
