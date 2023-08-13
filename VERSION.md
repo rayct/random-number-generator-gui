@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 #### UI Version
 
-**Major Features Update and Fixed a number of Critical Bugs.**
+**Features Update and Fixed a number of Critical Bugs.**
   
 * This version of the code adds an "Open Log File" button that uses the os.system function to open the log.txt file using the default text editor. The try and except blocks are used to handle different operating systems (Windows, macOS, and Linux).
 
