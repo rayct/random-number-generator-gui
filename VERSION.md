@@ -2,7 +2,7 @@
 
 ## Code Stack: Python and `tkinter`
 
-### Version 1.0.6
+### Version 0.1.0
 #### UI Version
 
 **Major Features Update and Fixed a number of Critical Bugs.**
@@ -22,7 +22,7 @@
 
 ---
 
-### Version 1.0.5
+### Version 0.0.2
 #### UI Version
 **Version Changes:**
 * Improved GUI (Expanded layout)
@@ -30,7 +30,7 @@
 
 ---
 
-### Version 1.0.4
+### Version 0.0.1
 #### UI Version
 **Major Feature Update:**
 * Added a UI
@@ -39,52 +39,6 @@
 * This program creates a simple GUI using the `tkinter` library. It allows you to input numbers, weights, and the number of samples, and then generates and displays random numbers based on the provided inputs. Make sure to have the `tkinter` library installed in your Python environment to run this program.
 
 ---
-
-
-### Version 1.0.3
-#### CMD Line Version
-**Version Changes:**
-* CMD Line with Prompt
-* A command-line of the program that prompts the user to input the numbers, weights, and the number of samples:
-
-* Run the program using the following command:
-
-`python random_number_generator_cmd_prompt.py`
-
-
----
-
-### Version 1.0.2
-#### CMD Line Version
-**Version Changes:**
-* To generate high-quality random numbers, you can use the `random.choices()` function from the `random` module with the `weights` parameter for weighted random selection. Here's the program using the `random` module to generate high-quality random numbers based on the provided list of numbers and their weights:
-
-* In this program, the `random.choices()` function is used to generate a list of high-quality random numbers based on the provided `numbers` and `weights`. You can adjust the `num_samples` variable to generate as many random numbers as you need. This approach ensures that the random numbers are generated with better statistical properties compared to manual weighted selection.
-
-
----
-
-### Version 1.0.1
-#### CMD Line Version
-**Version Changes:**
-* Using the `random` module to achieve weighted random selection:
-
-* The `random.choices()` function from the `random` module allows you to perform weighted random selection directly, which simplifies the process. The function returns a list of randomly selected elements based on their weights, and we select the first element from that list to get the final result.
-
----
-
-### Version 1.0
-#### CMD Line Version
-* An algorithm to generate random numbers in Python based on the provided list of numbers: 4, 6, 10, 13, 34, 3, 5.
-One way to achieve this is by using a weighted random selection algorithm. Here's an example of how you can implement this:
-
-* In this example, each number in the `numbers` list has an equal weight of 1. You can adjust the weights according to your preferences if you want certain numbers to have a higher chance of being selected.
-
-* Please note that this algorithm ensures that numbers are selected with a probability proportional to their weights, but it may not provide the same statistical properties as Python's built-in `random` module. If you require high-quality random numbers for cryptographic or scientific purposes, it's recommended to use the `random` module provided by Python's standard library.
-
-
----
-
 
 Program and Documentation Created By: **Raymond C. TURNER**
 
