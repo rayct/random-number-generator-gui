@@ -1,0 +1,8 @@
+Generated Numbers: 14, 21, 25, 14, 17, 17
+Generated Numbers: 39, 25, 17, 39, 17, 25
+Generated Numbers: 24, 17, 39, 21, 24, 14
+Generated Numbers: 39, 25, 24, 25, 17, 17
+Generated Numbers: 24, 25, 39, 21, 17, 21
+Generated Numbers: 25, 14, 21, 24, 14, 24
+Generated Numbers: 25, 39, 17, 25, 21, 14
+Generated Numbers: 21, 21, 14, 39, 21, 39

@@ -1,0 +1,46 @@
+Generated Numbers: 24, 24, 17, 24, 17, 21
+Generated Numbers: 17, 24, 21, 39, 17, 14
+Generated Numbers: 25, 17, 24, 21, 21, 24
+Generated Numbers: 25, 21, 39, 24, 24, 25
+Generated Numbers: 39, 24, 24, 39, 14, 24
+Generated Numbers: 17, 25, 14, 24, 25, 25
+Generated Numbers: 25, 39, 25, 25, 17, 24
+Generated Numbers: 14, 24, 25, 17, 17, 24
+Generated Numbers: 21, 39, 24, 14, 39, 39
+Generated Numbers: 39, 21, 24, 39, 39, 17
+Generated Numbers: 39, 21, 17, 25, 24, 39
+Generated Numbers: 21, 39, 25, 21, 25, 17
+Generated Numbers: 17, 14, 14, 25, 24, 21
+Generated Numbers: 14, 25, 25, 17, 14, 17
+Generated Numbers: 24, 14, 14, 25, 24, 21
+Generated Numbers: 17, 25, 39, 24, 25, 39
+Generated Numbers: 25, 25, 24, 21, 24, 39
+Generated Numbers: 17, 21, 25, 24, 21, 21
+Generated Numbers: 39, 25, 25, 39, 24, 39
+Generated Numbers: 39, 21, 14, 17, 25, 25
+Generated Numbers: 21, 39, 14, 14, 25, 21
+Generated Numbers: 17, 17, 25, 25, 21, 39
+Generated Numbers: 25, 17, 39, 17, 25, 39
+Generated Numbers: 39, 14, 25, 24, 39, 14
+Generated Numbers: 14, 24, 39, 17, 24, 24
+
+14, 17, 21, 24, 25, 39
+2, 2, 2, 2, 2, 2
+
+Generated Numbers: 17, 25, 17, 25, 25, 39
+Generated Numbers: 39, 25, 21, 17, 25, 17
+Generated Numbers: 25, 14, 24, 39, 24, 24
+Generated Numbers: 17, 14, 14, 25, 25, 25
+Generated Numbers: 39, 25, 24, 39, 14, 14
+Generated Numbers: 25, 21, 24, 39, 14, 24
+Generated Numbers: 25, 24, 24, 25, 25, 25
+Generated Numbers: 14, 25, 17, 14, 14, 21
+Generated Numbers: 17, 14, 14, 14, 14, 25
+Generated Numbers: 17, 17, 21, 21, 24, 14
+Generated Numbers: 39, 17, 25, 17, 24, 24
+Generated Numbers: 24, 21, 25, 17, 14, 14
+Generated Numbers: 25, 21, 39, 14, 17, 21
+Generated Numbers: 21, 39, 17, 21, 25, 21
+Generated Numbers: 39, 17, 25, 24, 39, 25
+Generated Numbers: 24, 25, 25, 14, 25, 17
+Generated Numbers: 25, 17, 39, 25, 21, 24
