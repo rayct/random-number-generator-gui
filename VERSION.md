@@ -2,7 +2,7 @@
 
 ## Code Stack: Python and `tkinter`
 
-![Version](https://img.shields.io/badge/version-1.0.0.beta.1-blue)
+![Version](https://img.shields.io/badge/version-0.1.1.beta.1-blue)
 ### UI Version
 
 **Features Update and Fixed a number of Critical Bugs.**
